@@ -6,7 +6,7 @@ Well, here's a nice little solution:
 ![Example terminal window showing ASCII windows 9x logo with black border](Screenshot_2022-06-03_01-35-49.png)
 ![Example terminal window showing ASCII windows 9x logo with black border](Screenshot_2022-06-03_01-42-49.png)
 
-To add it, just download the file, save it in a convenient path, and put this somewhere (preferably at the end of) ~/.bashrc with a text editor like nano, making sure to replace "(path to file)" with the path to the file:
+To add it, just download the file neofetch_windows_95_logo, save it in a convenient path, and put this somewhere (preferably at the end of) ~/.bashrc with a text editor like nano, making sure to replace "(path to file)" with the path to the file (and remove your previous neofetch command if there was one):
 
 Black Border:
 ```bash

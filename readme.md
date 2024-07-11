@@ -1,3 +1,4 @@
+Neofetch is dead. Long live Neofetch! I have ported this logo to Fastfetch. Check it out [here!](https://gitlab.com/dexcube/fastfetch-9x-logo)
 # Windows 9x Logo for Neofetch
 Have you installed the [Chicago95 theme](https://github.com/grassmunk/Chicago95) but feel an emotional void when Neofetch shows your distro logo, breaking the illusion?
 
